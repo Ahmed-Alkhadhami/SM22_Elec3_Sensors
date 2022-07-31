@@ -4,12 +4,11 @@
 
 
 
-
 <img src="https://user-images.githubusercontent.com/107868473/182018243-be5ba879-03c1-4d6a-b58b-e7ba857eac14.png" width=35% height=35%>
 
 Generally , there are two types of sensors:
 * Analog Sensor
-* Digital sensor  
+* Digital Sensor  
 We will give a simple example for each one in this repository Insha'a Allah.
 
 <br/>
@@ -18,10 +17,10 @@ We will give a simple example for each one in this repository Insha'a Allah.
 
 <br/>
 
-## Analog Sensor
+# Analog Sensor
 it's a sensor that produces a continuous analog output , that can be even fractional numbers.
 
-### Component List :
+## Component List :
 * Arduino UNO
 * LDR
 * 2 PullDown Resistor (1 kΩ)
@@ -30,19 +29,19 @@ it's a sensor that produces a continuous analog output , that can be even fracti
 
 <br/>
 
-### Circuit Diagram
+## Circuit Diagram
 ![image](https://user-images.githubusercontent.com/107868473/182019020-2ed9bb40-1ea5-485f-af04-b48dc2381ec4.png)
 
 <br/>
 
 
-### Idea Of The Code :
-**General :**  
+## Idea Of The Code :
+### General :
 We will read the analog value/signal from the LDR sensor , then send it to the multimeter & LED , so we can sight the variation.
 
 <br/>
 
-**Explaining The Code :**  
+### Explaining The Code :
 1 - Pins 
 * Defining a variable for the LDR input/read.
 * Connecting the LDR to analog pin A5.
@@ -83,28 +82,14 @@ void loop ()
 <br/>
 
 
-
-
-
-
-
-
-
-
-
-
-## More Information
-Push Button diagram  
-![Push-button-Pinout](https://user-images.githubusercontent.com/107868473/180780878-b579ffa5-b229-417e-9d24-66cdb6199e6d.gif)
-
-<br/>
-<br/>
-
 ## Online Simulation link (testing) :
-[**Wokwi**](https://wokwi.com/projects/338154709936243283)  
+[**TinkerCad**](https://www.tinkercad.com/things/lw5mnreFti4-fabulous-bombul-gaaris/editel?tenant=circuits)  
  
+<br/>
 
-https://user-images.githubusercontent.com/107868473/181051676-99168938-6fec-453b-b254-3e8ae78ac946.mp4
+https://user-images.githubusercontent.com/107868473/182021716-a5ddb9bd-c6fa-434c-90b0-86de84e1cb7d.mp4
+
+
 
 
   
