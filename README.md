@@ -22,7 +22,7 @@ it's a sensor that produces a continuous analog output , that can be even fracti
 ## Component List :
 * Arduino UNO
 * LDR
-* 2 PullDown Resistor (1 kΩ)
+* 2 Pull Down Resistors (1 kΩ)
 * Multimeter
 * LED
 
