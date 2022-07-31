@@ -17,7 +17,7 @@ We will give a simple example for each one in this repository Insha'a Allah.
 <br/>
 
 # Analog Sensor
-it's a sensor that produces a continuous analog output , that can be even fractional numbers.
+it's a sensor that produces a continuous analog output , that can be even fractional numbers. The sensor we will use for our example is an LDR (light-dependent resistor) , which is a component that decreases resistance with respect to receiving luminosity (light) on the component's sensitive surface.
 
 ## Component List :
 * Arduino UNO
@@ -51,7 +51,7 @@ byte LDR = A5;
 
 2 - Initializing  
 - Initializing status of each used pins whether it's IN or OUT.  
-LDR is input , and variable digital pin 9 is output (for multimeter & LED).
+LDR is input , and PWM digital pin 9 is output (for multimeter & LED).
 - Starting the serial monitor to see the input value changes on the screen.
 ```bash
 void setup ( )
