@@ -1,5 +1,4 @@
-# Electric Task 3 : Designing a sensor circuits/systems
-
+# Electric Task 3 : Designing A Sensor Circuits/Systems
 
 
 
